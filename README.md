@@ -14,4 +14,5 @@
 
 [Acesse nosso instagram](https://www.instagram.com/engenhariaentendida/)
 
-<img width="810" alt="Icon Ee (4)" src="https://user-images.githubusercontent.com/68485673/131290932-ea8f0061-1926-498d-a834-4c4d727c7c68.png">
+![Cópia de Icon Ee](https://user-images.githubusercontent.com/68485673/131291069-07fb34bd-2d43-48b0-824d-9d7db9af1200.png)
+
