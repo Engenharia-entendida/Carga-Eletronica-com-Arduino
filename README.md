@@ -14,5 +14,7 @@
 
 [Acesse nosso instagram](https://www.instagram.com/engenhariaentendida/)
 
+[Acesse nosso grupo no Telegram](https://t.me/engenhariaentendida)
+
 ![Cópia de Icon Ee](https://user-images.githubusercontent.com/68485673/131291069-07fb34bd-2d43-48b0-824d-9d7db9af1200.png)
 
