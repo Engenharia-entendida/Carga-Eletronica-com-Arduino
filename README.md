@@ -7,7 +7,7 @@
  - [ ] Estação de solda
  - [ ] Fonte de bancada 2.0
  - [ ] Conversor buck
- - [ ] conversor boost
+ - [ ] Conversor boost
  
 ---
 [Acesse nosso canal no Youtube](https://www.youtube.com/channel/UCo7owkh5gzRegCj2A4SXLNw)
