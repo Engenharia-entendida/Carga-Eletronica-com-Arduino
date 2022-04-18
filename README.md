@@ -5,7 +5,7 @@
  **Lista de projetos disponíveis:**
  - [x] Carga eletrônica
  - [ ] Estação de solda
- - [ ] Fonte de bancada 2.0
+ - [x] Fonte de bancada 2.0
  - [ ] Conversor buck
  - [ ] Conversor boost
  
